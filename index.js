@@ -1,0 +1,1 @@
+var scanf = require('scanf');
