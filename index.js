@@ -10,9 +10,9 @@ var cancelar
 
 do {
 
-var listaDePalabras = scanf("%s");
-cancelar = listaDePalabras;
-cadenaDeTexto.push(cancelar);
+    var listaDePalabras = scanf("%s");
+    cancelar = listaDePalabras;
+    cadenaDeTexto.push(cancelar);
     
 } while (cancelar != "cancelar");
 
